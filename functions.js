@@ -33,7 +33,7 @@ function draw() {
     
     ctx.fillStyle = "#FFFFFF";
     ctx.fillRect(25,150,150,50);
-    
+
 
 
 
@@ -46,12 +46,17 @@ function draw() {
     
     ctx.fillStyle = "#FFFFFF";
     ctx.fillRect(250,150,150,50);
+    ctx.fillText("A0",50,175,150);
     
     ctx.fillStyle = "#FFFFFF";
     ctx.fillRect(175,0,50,150);
+    ctx.fillText("A1",50,175,150);
     
     ctx.fillStyle = "#FFFFFF";
     ctx.fillRect(175,225,50,150);
+    ctx.fillText("A2",50,175,150);
+    //hi
+    
     
     
     ctx.fillStyle = "#00FF00";
