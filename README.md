@@ -1,2 +1,3 @@
 # Patient-Immobilization-Software
-Software interface code
+Software interface code for BME 390 Capstone project
+
