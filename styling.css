@@ -8,3 +8,35 @@ html, body {
   height: 100%;
   margin: 0px;
 }
+
+/*
+.Button {
+	background-color:#4caf50;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:10px 10px;
+	text-decoration:none;
+	border-radius: 4px;
+  position:absolute;
+	left:70%;
+	top:20px;
+}
+.Button:hover {
+	background-color:#4caf50;
+	position:absolute;
+	left:100px;
+	top:20px;
+}
+.Button:active {
+	position:absolute;
+	left:70%;
+	top:20px;
+}
+*/
+
+  
+
